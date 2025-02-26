@@ -12,15 +12,17 @@ Haotong Yang （杨昊桐）
 Email: haotongyang "at" pku "dot" edu "dot" cn
 
 
-Haotong is a fourth-year Ph.D. student in the [Institute for Artifical Intelligence](https://www.ai.pku.edu.cn/) and the [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/) of Peking University, as an member of [ZeroLab](https://zero-lab-pku.github.io/) led by Prof. [Zhouchen Lin](https://zhouchenlin.github.io/) and [GraphPKU](https://www.graphpku.cn/) led by Prof. [Muhan Zhang](https://muhanzhang.github.io/).
+Haotong is a fourth-year Ph.D. student in the [Institute for Artifical Intelligence](https://www.ai.pku.edu.cn/) and the [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/) of Peking University, as an member of [ZeroLab](https://zero-lab-pku.github.io/) led by Prof. [Zhouchen Lin](https://zhouchenlin.github.io/) and [GraphPKU](https://www.graphpku.cn/) led by Prof. [Muhan Zhang](https://muhanzhang.github.io/). His research interest lays in **Large Language Model** (**LLM**) especially in reasoning ability of LLMs, explanation and interpretation of LLMs and also multi-modal LLM. Before his graduate stage, he receive a bachelor degree from the [School of Mathematical Science](https://www.math.pku.edu.cn/index.htm) in Peking University, where he worked with Prof. [Zhanxing Zhu](https://zhanxingzhu.github.io/).
 
-A data-driven personal website
+杨昊桐，北京大学人工智能研究院和智能学院在读博士研究生，师从林宙辰教授和张牧涵助理教授，目前主要从事和大语言模型推理、可解释性和多模态大模型相关的研究。在ICLR、ICML、NeurIPS等学术会议上发表多篇文章，并多次担任审稿人。其中一作文章 [Rethinking knowledge graph evaluation under the open-world assumption](https://proceedings.neurips.cc/paper_files/paper/2022/hash/378226e5df7eded3e401de5c9493143c-Abstract-Conference.html) 获评NeurIPS 2022口头报告。本科毕业于北京大学数学科学学院。曾多次获得北京大学三好学生和校级奖学金，并于2021年荣获北京市优秀毕业生。在学术生活之外，他还热心社会服务，曾在建国70周年和建党百年纪念活动中担任志愿者。
+
+Research Interest
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
