@@ -24,4 +24,7 @@ Research Interest
 
 Publications
 ======
-1. [ICLR-25] Number Cookbook: Number Understanding of Language Models and How to Improve It
+1. [ICLR-25] **H. Yang**, Y. Hu, S. Kang, Z. Lin, and M. Zhang: **Number Cookbook: Number Understanding of Language Models and How to Improve It**. The Thirteenth International Conference on Learning Representations (ICLR-2025), 2024. ([PDF](https://arxiv.org/abs/2411.03766))
+2. [ICML-24] Y. Hu, X. Tang, **Y. Yang**, and M. Zhang: **Case-based or rule-based: how do transformers do the math?** The Forty-First International Conference on Machine Learning (ICML-2024), 2024. ([PDF](https://arxiv.org/abs/2402.17709))
+3. [ICLR-24] X. Wang, **H.Yang**, Z. Lin, and M. Zhang: **Neural common neighbor with completion for link prediction**. The Twelfth International Conference on Learning Representations (ICLR-2024), 2023. ([pdf](https://arxiv.org/abs/2302.00890))
+4. [NeurIPS-22] **H. Yang**, Z. Lin, and M. Zhang: **Rethinking knowledge graph evaluation under the open-world assumption**. The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS-2022), 2022. ([PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/378226e5df7eded3e401de5c9493143c-Paper-Conference.pdf))([report](https://news.pku.edu.cn/jxky/6d9e681f68fd448c9c323188baed7699.htm)) <font color='red'>oral presentation (1.7% acceptance rate)</font>
