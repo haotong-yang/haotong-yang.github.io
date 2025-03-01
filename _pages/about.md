@@ -22,7 +22,7 @@ Research Interest
 **Reasoning of LLMs**
 I focus on explain and the mechanism of reasoning ability of LLMs and improve it. Specifically, how the LLMs can learn the world knowledge (or basic knowledge), learn the concepts and solution of tasks, and solve complex tasks in language reasoning. The topic is related to (1) the mechanism of attention, positional embedding, tokenizer and its relation with various reasoning tasks, (2) various types of chain-of-thought (3) analysis on typical reasoning tasks.
 
-** Multi-modal Reasoning**
+**Multi-modal Reasoning**
 I also interest on extending the reasoning framework and capacity of LLMs to multi-modal scenario, such as merge the graph learning by GNN with LLM's powerful factual knowledge learning and reasoning ability or vision-language model's reasoning pipeline.
 
 
