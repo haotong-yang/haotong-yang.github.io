@@ -20,10 +20,10 @@ Haotong is a fourth-year Ph.D. student in the [School of Intelligence Science an
 Research Interest
 ======
 **Reasoning of LLMs**
-I focus on explain and the mechanism of reasoning ability of LLMs and improve it. Specifically, how the LLMs can learn the world knowledge (or basic knowledge), learn the concepts and solution of tasks, and solve complex tasks in language reasoning. The topic is related to (1) the mechanism of attention, positional embedding, tokenizer and its relation with various reasoning tasks, (2) various types of chain-of-thought (3) analysis on typical reasoning tasks.
+My research focuses on understanding and improving the reasoning mechanisms of Large Language Models (LLMs). Specifically, I investigate how LLMs acquire world knowledge (or basic knowledge), learn concepts and task solutions, and solve complex language reasoning tasks. This involves exploring (1) the mechanisms of attention, positional embedding, tokenization, and their relationship with various reasoning tasks, (2) different types of chain-of-thought reasoning, and (3) the analysis of typical reasoning tasks.
 
 **Multi-modal Reasoning**
-I also interest on extending the reasoning framework and capacity of LLMs to multi-modal scenario, such as merge the graph learning by GNN with LLM's powerful factual knowledge learning and reasoning ability or vision-language model's reasoning pipeline.
+ I am also interested in extending the reasoning capabilities of LLMs to multi-modal scenarios. This includes integrating graph learning (via GNNs) with LLMs' powerful factual knowledge and reasoning abilities, as well as exploring vision-language models' reasoning pipelines, and so on.
 
 
 Publications
