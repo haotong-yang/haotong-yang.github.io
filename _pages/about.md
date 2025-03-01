@@ -35,7 +35,7 @@ Publications
 
 Preprint or Under Review
 ======
-1. **H. Yang**, Q. Zheng, Y. Gao, Y. Yang, Y. He, Z. Lin, and M. Zhang: **VACT: A Video Automatic Causal Testing System and a Benchmark** (preprint soon)
+1. **H. Yang**\*, Q. Zheng\*, Y. Gao\*, Y. Yang, Y. He, Z. Lin, and M. Zhang: **VACT: A Video Automatic Causal Testing System and a Benchmark** (preprint soon)
 1. Y. Hu\*, S. Kang\*, **H. Yang**, H. Xu, and M. Zhang: **Training Large Language Models to be Better Rule Followers** ([arxiv](https://arxiv.org/abs/2502.11525))
 1. **H. Yang**\*, Xiyuan Wang\*, Q. Tao, S. Hu, Z. Lin, M. Zhang: **GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model** ([arxiv](https://arxiv.org/abs/2412.06849))
 1. **H. Yang**, F. Meng, Z. Lin, and M. Zhang: **Parrot Mind: Towards Explaining the Complex Task Reasoning of Pretrained Large Language Models with Template-Content Structure** ([arxiv](https://arxiv.org/abs/2310.05452))
