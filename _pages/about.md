@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
+Welcome to my personal homepage!
 
 Email: haotongyang "at" pku "dot" edu "dot" cn
 
