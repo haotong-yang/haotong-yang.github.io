@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Haotong Yang / Personal Page"
+title                    : "Haotong Yang / Personal Site"
 title_separator          : "-"
 name                     : &name "Haotong Yang"
-description              : &description "Welcome to my personal page!"
+description              : &description "Welcome to my personal homepage!"
 url                      : https://haotong-yang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haotong-yang/haotong-yang.github.io"
