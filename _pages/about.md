@@ -29,14 +29,14 @@ My research focuses on understanding and improving the reasoning mechanisms of L
 
 Publications
 ======
-1. [ICLR-25] **H. Yang**, Y. Hu, S. Kang, Z. Lin, and M. Zhang: **Number Cookbook: Number Understanding of Language Models and How to Improve It**. The Thirteenth International Conference on Learning Representations (ICLR-2025), 2024. ([PDF](https://arxiv.org/abs/2411.03766))
+1. [ICLR-25] **H. Yang**, Y. Hu, S. Kang, Z. Lin, and M. Zhang: **Number Cookbook: Number Understanding of Language Models and How to Improve It**. The Thirteenth International Conference on Learning Representations (ICLR-2025), 2024. ([PDF](https://arxiv.org/abs/2411.03766))([Presentation in English](https://recorder-v3.slideslive.com/?share=99291&s=c7ee4aa2-27ed-443e-8274-06167d400b6b))([Presentation in Chinese](https://www.bilibili.com/video/BV1MTQAY4ENy/))([WeChat article](https://mp.weixin.qq.com/s/ifqQspMHgC7Tp6r381lyoQ))([GitHub Page](https://github.com/GraphPKU/number_cookbook))
 2. [ICML-24] Y. Hu, X. Tang, **Y. Yang**, and M. Zhang: **Case-based or rule-based: how do transformers do the math?** The Forty-First International Conference on Machine Learning (ICML-2024), 2024. ([PDF](https://arxiv.org/abs/2402.17709))
 3. [ICLR-24] X. Wang, **H.Yang**, Z. Lin, and M. Zhang: **Neural common neighbor with completion for link prediction**. The Twelfth International Conference on Learning Representations (ICLR-2024), 2023. ([pdf](https://arxiv.org/abs/2302.00890))
 4. [NeurIPS-22] **H. Yang**, Z. Lin, and M. Zhang: **Rethinking knowledge graph evaluation under the open-world assumption**. The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS-2022), 2022. ([PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/378226e5df7eded3e401de5c9493143c-Paper-Conference.pdf))([report](https://news.pku.edu.cn/jxky/6d9e681f68fd448c9c323188baed7699.htm)) <font color='red'>oral presentation (1.7% acceptance rate)</font>
 
 Preprint or Under Review
 ======
-1. **H. Yang**\*, Q. Zheng\*, Y. Gao\*, Y. Yang, Y. He, Z. Lin, and M. Zhang: **VACT: A Video Automatic Causal Testing System and a Benchmark** (preprint soon)
+1. **H. Yang**\*, Q. Zheng\*, Y. Gao\*, Y. Yang, Y. He, Z. Lin, and M. Zhang: **VACT: A Video Automatic Causal Testing System and a Benchmark** ([arxiv](https://arxiv.org/abs/2503.06163))
 1. Y. Hu\*, S. Kang\*, **H. Yang**, H. Xu, and M. Zhang: **Training Large Language Models to be Better Rule Followers** ([arxiv](https://arxiv.org/abs/2502.11525))
 1. **H. Yang**\*, Xiyuan Wang\*, Q. Tao, S. Hu, Z. Lin, M. Zhang: **GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model** ([arxiv](https://arxiv.org/abs/2412.06849))
 1. **H. Yang**, F. Meng, Z. Lin, and M. Zhang: **Parrot Mind: Towards Explaining the Complex Task Reasoning of Pretrained Large Language Models with Template-Content Structure** ([arxiv](https://arxiv.org/abs/2310.05452))
